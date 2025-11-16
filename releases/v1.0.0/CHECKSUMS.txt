@@ -1,0 +1,13 @@
+# Checksums for Termux Crush App v1.0.0
+# This file will contain checksums for the APK once it is built
+
+# Format:
+# <algorithm>:<checksum> <filename>
+
+# Example (to be replaced with actual checksums):
+# SHA256:placeholder_checksum termux-crush-app-v1.0.0.apk
+# MD5:placeholder_checksum termux-crush-app-v1.0.0.apk
+
+# To generate checksums after building the APK:
+# sha256sum termux-crush-app-v1.0.0.apk > checksums.txt
+# md5sum termux-crush-app-v1.0.0.apk >> checksums.txt
