@@ -40,4 +40,7 @@ termux_step_post_make_install() {
 data_dir = "$HOME/.local/share/crush"
 config_dir = "$HOME/.config/crush"
 EOF
+
+	# Install test suite
+	install -Dm755 -t $TERMUX_PREFIX/share/crush/scripts $TERMUX_PKG_BUILDER_DIR/test-suite.sh
 }

@@ -51,6 +51,17 @@ crush
 
 To start the Crush CLI interface.
 
+## Testing
+
+Comprehensive testing instructions and tools are provided in the APK testing documentation:
+
+- [APK Testing Plan](../APK_TESTING_PLAN.md)
+- [Test Execution Guide](../APK_TEST_EXECUTION_GUIDE.md)
+- [Testing Report Template](../APK_TESTING_REPORT_TEMPLATE.md)
+- [Post-Build Testing Instructions](../POST_BUILD_TESTING_INSTRUCTIONS.md)
+
+Automated test suite is included in the package and can be run within the Termux environment.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.

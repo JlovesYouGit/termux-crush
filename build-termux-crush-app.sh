@@ -47,6 +47,9 @@ echo "Setting up custom package..."
 # Copy crush package definition
 cp -r ../crush-package termux-packages/packages/crush
 
+# Copy test suite for validation
+cp -r ../scripts/test-suite.sh termux-packages/packages/crush/
+
 echo "Setup complete!"
 echo ""
 echo "Next steps:"

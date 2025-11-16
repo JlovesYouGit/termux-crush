@@ -28,3 +28,4 @@ fi
 echo "Crush CLI has been installed successfully!"
 echo "Run 'crush' to start the AI assistant."
 echo "For more information, run 'crush --help'"
+echo "Test suite is available at $PREFIX/share/crush/scripts/test-suite.sh"
