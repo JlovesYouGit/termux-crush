@@ -1,0 +1,30 @@
+#!/bin/sh
+set -e
+
+# This script runs after the crush package is installed
+
+# Create necessary directories with proper permissions
+mkdir -p $HOME/.config/crush
+mkdir -p $HOME/.local/share/crush
+
+# Set proper permissions
+chmod 700 $HOME/.config/crush
+chmod 700 $HOME/.local/share/crush
+
+# Create a default configuration
+if [ ! -f "$HOME/.config/crush/config.json" ]; then
+    cat > $HOME/.config/crush/config.json << EOF
+{
+  "data_directory": "$HOME/.local/share/crush",
+  "debug": false,
+  "permissions": {
+    "skip_requests": false
+  }
+}
+EOF
+fi
+
+# Display installation message
+echo "Crush CLI has been installed successfully!"
+echo "Run 'crush' to start the AI assistant."
+echo "For more information, run 'crush --help'"
