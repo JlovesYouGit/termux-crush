@@ -4,7 +4,7 @@ A custom Termux Android application with Crush CLI pre-installed for easy deploy
 
 ## Overview
 
-This project creates a standalone Android application that bundles Termux with Crush CLI pre-installed. The app is designed to work on Android devices including Nothing Phone 2 and Pixel phones without conflicting with existing Termux installations.
+This project creates a standalone Android application that bundles Termux with Crush CLI pre-installed. The app is designed to work on Android devices including  Phone 2 and Pixel phones without conflicting with existing Termux installations.
 
 ## Features
 
