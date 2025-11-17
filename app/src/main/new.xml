@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!--
+            Specify what to back up and what to exclude from cloud backup.
+            To learn more, see the official documentation at:
+            https://developer.android.com/guide/topics/data/autobackup
+            -->
+        <exclude domain="root" />
+        <exclude domain="file" />
+        <exclude domain="database" />
+        <exclude domain="sharedpref" />
+        <exclude domain="external" />
+    </cloud-backup>
+    <device-transfer>
+        <!--
+            Specify what to include and exclude from device-to-device transfers.
+            To learn more, see the official documentation at:
+            https://developer.android.com/guide/topics/data/autobackup
+            -->
+        <exclude domain="root" />
+        <exclude domain="file" />
+        <exclude domain="database" />
+        <exclude domain="sharedpref" />
+        <exclude domain="external" />
+    </device-transfer>
+</data-extraction-rules>
+    

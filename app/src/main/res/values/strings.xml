@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Termux Crush</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam auctor nunc quis
+        eros accumsan, ac rutrum ante tincidunt. Quisque condimentum bibendum dolor quis rutrum.
+        Proin sed mauris euismod, fringilla urna eu, egestas libero. Donec dignissim imperdiet
+        tellus, ut luctus lacus iaculis in. Integer auctor augue in quam fermentum, quis luctus
+        tortor ultrices. Nunc non sapien vitae justo sodales convallis. Maecenas condimentum porta
+        sem, vitae fermentum libero placerat sit amet. Nam varius ligula justo, in scelerisque
+        sapien facilisis et.\n\n
+        Sed tempus orci quis urna ultrices, a vestibulum erat sagittis. Ut bibendum lectus ut
+        tempor dapibus. Nulla pellentesque justo at pellentesque consequat. Sed rutrum hendrerit
+        sem, nec blandit justo ullamcorper eget. Donec ultrices neque eget diam laoreet, vel
+        fringilla nibh fermentum. Integer dignissim nisi dignissim, scelerisque urna vel, ornare
+        ipsum. Morbi bibendum, nisl vitae suscipit rhoncus, risus augue gravida lacus, sit amet
+        ultrices odio odio nec risus. Aenean sit amet augue nec sem facilisis blandit. Integer
+        placerat, mi eu placerat porta, turpis mauris dapibus lacus, quis ornare quam urna vitae
+        ligula. Duis tincidunt ante at tempor malesuada. In rhoncus, purus in lobortis auctor, elit
+        nisl gravida ligula, id laoreet quam lorem vel quam. Nullam non justo vitae nisi ultricies
+        fermentum. Nulla facilisi.
+    </string>
+</resources>
